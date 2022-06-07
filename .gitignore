@@ -1,0 +1,11 @@
+# ignore our credentials
+
+config.json
+
+# ignore mac system files
+
+.DS_store
+
+# ignore node modules
+
+node_modules
